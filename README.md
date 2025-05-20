@@ -28,4 +28,4 @@ My name is Steven, and I am a Computer and Data Engineering graduate. I am a dri
 
 <b>My GitHub Stats</b>
 
-<a href="[http://www.github.com/Sintsun](https://github.com/Sintsun)"><img src="https://github-readme-stats.vercel.app/api?username=Sintsun0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sintsun0's GitHub stats" /></a>
+<a href="http://www.github.com/Sintsun"><img src="https://github-readme-stats.vercel.app/api?username=Sintsun0&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Sintsun0's GitHub stats" /></a>
