@@ -7,7 +7,7 @@ AI engineer
 My name is Steven, and I am a Computer and Data Engineering graduate. I am a driven and detail-oriented individual with a passion for technology and a desire to gain practical experience in the industry. Throughout my academic career, I have acquired a strong foundation in computer science, programming languages, and data analysis techniques.
 
 * 🌍  I'm based in Hong Kong
-* 🖥️  See my portfolio at [www.app.com](http://www.app.com)
+* 🖥️  See my portfolio at [https://sintsun.github.io/SintsunWebsite/](https://sintsun.github.io/SintsunWebsite/)
 * ✉️  You can contact me at [sintsun01@gmail.com](mailto:sintsun01@gmail.com)
 * 🧠  I'm learning Node.js
 * 🤝  I'm open to collaborating on Interesting project
