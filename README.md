@@ -22,6 +22,10 @@ My name is Steven, and I am a Computer and Data Engineering graduate. I am a dri
 ### Certifications
 <a href="https://www.credly.com/badges/107757e2-4d51-44d1-b447-7252db3deebb/linked_in?t=t4cj23" target="_blank">
   <img src="images/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="100" height="100" />
+
+  <a href="https://www.credly.com/badges/9b5ef6e4-5dce-444e-959a-b136bc73bd0a" target="_blank">
+  <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="100" height="100" />
+  
 </a>
 
 
