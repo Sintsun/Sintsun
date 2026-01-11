@@ -36,5 +36,6 @@ My name is Steven, and I am a Computer and Data Engineering graduate. I am a dri
 ### Badges
 
 <b>My GitHub Stats</b>
+[![Sintsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sintsun)](https://github.com/Sintsun/github-readme-stats)
 
 <a href="http://www.github.com/sintsun"><img src="https://github-readme-stats.vercel.app/api?username=sintsun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sintsun's GitHub stats" /></a>
