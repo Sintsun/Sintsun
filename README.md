@@ -1,4 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Steven
+==============================================================================================================================
 
 AI engineer
 -----------
@@ -23,7 +24,7 @@ My name is Steven, and I am a Computer and Data Engineering graduate. I am a dri
   <img src="images/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="100" height="100" />
 </a>
 
-<a href="https://www.credly.com/badges/9b5ef6e4-5dce-444e-959a-b136bc73bd0a" target="_blank">
+  <a href="https://www.credly.com/badges/9b5ef6e4-5dce-444e-959a-b136bc73bd0a" target="_blank">
   <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="100" height="100" />
 </a>
 
