@@ -22,10 +22,10 @@ My name is Steven, and I am a Computer and Data Engineering graduate. I am a dri
 ### Certifications
 <a href="https://www.credly.com/badges/107757e2-4d51-44d1-b447-7252db3deebb/linked_in?t=t4cj23" target="_blank">
   <img src="images/aws-certified-ai-practitioner.png" alt="AWS Certified AI Practitioner" width="100" height="100" />
+</a>
 
-  <a href="https://www.credly.com/badges/9b5ef6e4-5dce-444e-959a-b136bc73bd0a" target="_blank">
+<a href="https://www.credly.com/badges/9b5ef6e4-5dce-444e-959a-b136bc73bd0a" target="_blank">
   <img src="images/aws-certified-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="100" height="100" />
-  
 </a>
 
 
@@ -36,6 +36,5 @@ My name is Steven, and I am a Computer and Data Engineering graduate. I am a dri
 ### Badges
 
 <b>My GitHub Stats</b>
-[![Sintsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sintsun)](https://github.com/Sintsun/github-readme-stats)
 
-<a href="http://www.github.com/sintsun"><img src="https://github-readme-stats.vercel.app/api?username=sintsun&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="sintsun's GitHub stats" /></a>
+[![Sintsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sintsun&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/sintsun)
