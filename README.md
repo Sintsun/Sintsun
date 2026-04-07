@@ -37,4 +37,4 @@ My name is Steven, and I am a Computer and Data Engineering graduate. I am a dri
 
 <b>My GitHub Stats</b>
 
-[![Sintsun's GitHub stats](https://github-readme-stats.vercel.app/api?username=sintsun&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/sintsun)
+[![Sintsun's GitHub stats](https://github-readme-stats-iota-two-40.vercel.app/api?username=sintsun&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true)](https://github.com/sintsun)
