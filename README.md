@@ -41,6 +41,12 @@ Hi, I’m Steven, a Computer and Data Engineering graduate based in Hong Kong. I
   <img src="https://skillicons.dev/icons?i=python,cpp,java,js,r&theme=dark" alt="Python, C++, Java, JavaScript, R" />
 </p>
 
+**Web & Desktop Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,electron&theme=dark" alt="React, Node.js, Electron" />
+</p>
+
 **AI & Machine Learning**
 
 <p>
