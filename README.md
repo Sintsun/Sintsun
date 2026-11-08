@@ -11,10 +11,10 @@ Hong Kong 🇭🇰 &nbsp; · &nbsp; Computer & Data Engineering Graduate &nbsp; 
 <br />
 
 <a href="https://sintsun.github.io/SintsunWebsite/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-0E7490?style=for-the-badge&logo=googlechrome&logoColor=E0F2FE" alt="Portfolio" />
+  <img src="images/badges/portfolio.svg" width="150" height="44" alt="Portfolio" />
 </a>
-<a href="mailto:sintsun01@gmail.com"><img src="images/badges/email.svg" width="126" height="44" alt="Email" /></a>
-<a href="https://www.linkedin.com/in/sin-tsun-tang-291676268/"><img src="images/badges/linkedin.svg" width="126" height="44" alt="LinkedIn" /></a>
+<a href="mailto:sintsun01@gmail.com"><img src="images/badges/email.svg" width="150" height="44" alt="Email" /></a>
+<a href="https://www.linkedin.com/in/sin-tsun-tang-291676268/"><img src="images/badges/linkedin.svg" width="150" height="44" alt="LinkedIn" /></a>
 
 </div>
 
@@ -108,15 +108,13 @@ Hi, I’m Steven — a Computer and Data Engineering graduate based in Hong Kong
 
 <div align="center">
 
-<a href="https://github.com/sintsun">
-  <img src="https://img.shields.io/badge/GITHUB-View%20my%20projects-111827?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" />
-</a>
-<a href="https://www.linkedin.com/in/sin-tsun-tang-291676268/"><img src="images/badges/linkedin-connect.svg" width="190" height="44" alt="LinkedIn Connect" /></a>
-<a href="mailto:sintsun01@gmail.com"><img src="images/badges/email-contact.svg" width="218" height="44" alt="Email Get in touch" /></a>
-<a href="https://www.instagram.com/sintsun01"><img src="images/badges/instagram.svg" width="176" height="44" alt="Instagram Follow" /></a>
-<a href="https://sintsun.github.io/SintsunWebsite/">
-  <img src="https://img.shields.io/badge/PORTFOLIO-Explore-0E7490?style=for-the-badge&logo=googlechrome&logoColor=E0F2FE" alt="Portfolio" />
-</a>
+<table><tr>
+<td><a href="https://github.com/sintsun"><img src="images/badges/github-projects.svg" width="150" height="44" alt="GitHub View my projects" /></a></td>
+<td><a href="https://www.linkedin.com/in/sin-tsun-tang-291676268/"><img src="images/badges/linkedin-connect.svg" width="150" height="44" alt="LinkedIn Connect" /></a></td>
+<td><a href="mailto:sintsun01@gmail.com"><img src="images/badges/email-contact.svg" width="150" height="44" alt="Email Get in touch" /></a></td>
+<td><a href="https://www.instagram.com/sintsun01"><img src="images/badges/instagram.svg" width="150" height="44" alt="Instagram Follow" /></a></td>
+<td><a href="https://sintsun.github.io/SintsunWebsite/"><img src="images/badges/portfolio-explore.svg" width="150" height="44" alt="Portfolio Explore" /></a></td>
+</tr></table>
 
 <br /><br />
 
@@ -129,3 +127,4 @@ Hi, I’m Steven — a Computer and Data Engineering graduate based in Hong Kong
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0B1220&height=70&section=footer" width="100%" alt="" />
 </div>
+
