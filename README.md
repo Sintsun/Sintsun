@@ -14,10 +14,10 @@ Hong Kong 🇭🇰 &nbsp; · &nbsp; Computer & Data Engineering Graduate &nbsp; 
   <img src="https://img.shields.io/badge/PORTFOLIO-0E7490?style=for-the-badge&logo=googlechrome&logoColor=E0F2FE" alt="Portfolio" />
 </a>
 <a href="mailto:sintsun01@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-1E293B?style=for-the-badge&logo=gmail&logoColor=F8FAFC" alt="Email" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="126" height="44" viewBox="0 0 126 44" role="img" aria-label="Email"><rect width="126" height="44" rx="4" fill="#1E293B"/><path fill="#fff" d="M15 14h20v16H15zm2 2 8 6 8-6zm8 8-8-6v10h16V18z"/><text x="43" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="1">EMAIL</text></svg>
 </a>
 <a href="https://www.linkedin.com/in/sin-tsun-tang-291676268/">
-  <img src="https://img.shields.io/badge/LINKEDIN-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="126" height="44" viewBox="0 0 126 44" role="img" aria-label="LinkedIn"><rect width="126" height="44" rx="4" fill="#1D4ED8"/><path fill="#fff" d="M18 15h4v14h-4zm2-6a2.3 2.3 0 1 1 0 4.6A2.3 2.3 0 0 1 20 9Zm5 6h3.8v1.9h.1a4.2 4.2 0 0 1 3.8-2.1c4.1 0 4.9 2.7 4.9 6.2V29h-4v-7.1c0-1.7 0-3.8-2.4-3.8s-2.8 1.8-2.8 3.7V29h-4z"/><text x="46" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="1">LINKEDIN</text></svg>
 </a>
 
 </div>
@@ -116,13 +116,13 @@ Hi, I’m Steven — a Computer and Data Engineering graduate based in Hong Kong
   <img src="https://img.shields.io/badge/GITHUB-View%20my%20projects-111827?style=for-the-badge&logo=github&logoColor=E5E7EB" alt="GitHub" />
 </a>
 <a href="https://www.linkedin.com/in/sin-tsun-tang-291676268/">
-  <img src="https://img.shields.io/badge/LINKEDIN-Connect-1D4ED8?style=for-the-badge&logo=linkedin&logoColor=FFFFFF" alt="LinkedIn" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="190" height="44" viewBox="0 0 190 44" role="img" aria-label="LinkedIn Connect"><rect width="190" height="44" rx="4" fill="#1D4ED8"/><path fill="#fff" d="M12 15h4v14h-4zm2-6a2.3 2.3 0 1 1 0 4.6A2.3 2.3 0 0 1 14 9Zm5 6h3.8v1.9h.1a4.2 4.2 0 0 1 3.8-2.1c4.1 0 4.9 2.7 4.9 6.2V29h-4v-7.1c0-1.7 0-3.8-2.4-3.8s-2.8 1.8-2.8 3.7V29h-4z"/><text x="40" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="1">LINKEDIN</text><text x="119" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="1">CONNECT</text></svg>
 </a>
 <a href="mailto:sintsun01@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-Get%20in%20touch-334155?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Email" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="218" height="44" viewBox="0 0 218 44" role="img" aria-label="Email Get in touch"><rect width="218" height="44" rx="4" fill="#334155"/><path fill="#fff" d="M12 14h20v16H12zm2 2 8 6 8-6zm8 8-8-6v10h16V18z"/><text x="40" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="1">EMAIL</text><text x="104" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="1">GET IN TOUCH</text></svg>
 </a>
 <a href="https://www.instagram.com/sintsun01">
-  <img src="https://img.shields.io/badge/INSTAGRAM-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=FFFFFF" alt="Instagram" />
+  <svg xmlns="http://www.w3.org/2000/svg" width="176" height="44" viewBox="0 0 176 44" role="img" aria-label="Instagram Follow"><rect width="176" height="44" rx="4" fill="#C13584"/><rect x="12" y="12" width="20" height="20" rx="6" fill="none" stroke="#fff" stroke-width="2.5"/><circle cx="22" cy="22" r="4.5" fill="none" stroke="#fff" stroke-width="2.5"/><circle cx="28.5" cy="15.5" r="1.5" fill="#fff"/><text x="40" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="1">INSTAGRAM</text><text x="130" y="27" fill="#fff" font-family="Arial,sans-serif" font-size="14" font-weight="bold" letter-spacing="1">FOLLOW</text></svg>
 </a>
 <a href="https://sintsun.github.io/SintsunWebsite/">
   <img src="https://img.shields.io/badge/PORTFOLIO-Explore-0E7490?style=for-the-badge&logo=googlechrome&logoColor=E0F2FE" alt="Portfolio" />
