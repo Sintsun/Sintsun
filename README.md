@@ -108,11 +108,11 @@ Hi, I’m Steven — a Computer and Data Engineering graduate based in Hong Kong
 
 <div align="center">
 
-<a href="https://github.com/sintsun"><img src="images/badges/github-projects.svg" width="130" height="36" alt="GitHub View my projects" /></a>&nbsp;
-<a href="https://www.linkedin.com/in/sin-tsun-tang-291676268/"><img src="images/badges/linkedin-connect.svg" width="130" height="36" alt="LinkedIn Connect" /></a>&nbsp;
-<a href="mailto:sintsun01@gmail.com"><img src="images/badges/email-contact.svg" width="130" height="36" alt="Email Get in touch" /></a>&nbsp;
-<a href="https://www.instagram.com/sintsun01"><img src="images/badges/instagram.svg" width="130" height="36" alt="Instagram Follow" /></a>&nbsp;
-<a href="https://sintsun.github.io/SintsunWebsite/"><img src="images/badges/portfolio-explore.svg" width="130" height="36" alt="Portfolio Explore" /></a>
+<a href="https://github.com/sintsun"><img src="images/badges/github-projects.svg" width="110" height="32" alt="GitHub" /></a>&nbsp;
+<a href="https://www.linkedin.com/in/sin-tsun-tang-291676268/"><img src="images/badges/linkedin.svg" width="110" height="32" alt="LinkedIn" /></a>&nbsp;
+<a href="mailto:sintsun01@gmail.com"><img src="images/badges/email.svg" width="110" height="32" alt="Email" /></a>&nbsp;
+<a href="https://www.instagram.com/sintsun01"><img src="images/badges/instagram.svg" width="110" height="32" alt="Instagram" /></a>&nbsp;
+<a href="https://sintsun.github.io/SintsunWebsite/"><img src="images/badges/portfolio.svg" width="110" height="32" alt="Portfolio" /></a>
 
 <br /><br />
 
